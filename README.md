@@ -55,7 +55,7 @@ npm install
 ### Step 2: Configure Gemini API Key
 We have pre-copied your Gemini key to the `.env` file in this directory. If you ever need to change it, simply update:
 ```env
-GEMINI_API_KEY=AIzaSygdtfgdhtgfyj8efI-U87aq8KthY_-nd-DpI
+GEMINI_API_KEY=cccdsdccvsffvfb-U87aq8KthY_-nd-DpI
 ```
 
 ### Step 3: Start the Study Helper!
