@@ -1,0 +1,14 @@
+{
+  "name": "ai-study-companion",
+  "version": "1.0.0",
+  "description": "Universal AI Study Companion & Note-Taker (YouTube & pw.live)",
+  "main": "study.js",
+  "scripts": {
+    "start": "node study.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.11.0",
+    "dotenv": "^16.4.5",
+    "playwright": "^1.44.0"
+  }
+}
